@@ -1,0 +1,33 @@
+DOCUMENTACION PARA EL TRABAJO:
+
+https://docs.djangoproject.com/en/2.1/topics/db/models/
+
+https://docs.djangoproject.com/en/2.1/topics/db/queries/
+
+https://docs.djangoproject.com/en/2.1/contents/
+
+https://docs.djangoproject.com/en/2.1/topics/forms/
+
+https://docs.djangoproject.com/en/2.1/topics/class-based-views/
+
+http://www.tangowithdjango.com/book/chapters/models.html
+
+https://docs.djangoproject.com/en/2.1/intro/tutorial02/#creating-models
+
+http://127.0.0.1:8000/admin/
+
+https://djangobook.com/django-models-basic-data-access/
+
+https://djangobook.com/django-models/
+
+DOCS PARA BUSQUEDA ASESORIA :
+
+https://docs.djangoproject.com/es/2.1/ref/class-based-views/generic-display/
+
+https://stackoverflow.com/questions/150505/capturing-url-parameters-in-request-get
+
+https://stackoverflow.com/questions/48685555/how-to-filter-joined-models-in-django
+
+https://books.agiliq.com/projects/django-orm-cookbook/en/latest/select_some_fields.html
+
+https://stackoverflow.com/questions/33350362/django-listview-form-to-filter-and-sort
